@@ -1,0 +1,330 @@
+# Blender MTL File: '4909_11_Blender_Island.blend'
+# Material Count: 35
+
+newmtl Black_Lacquer
+Ns 684.313725
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blade_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.020103 0.013395 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Boat_Hull
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.012000 0.192000 0.043200
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Boat_Seats
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.170400 0.483200 0.135200
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/neox/Develop/Current/BlenderStudy/4909OS_code_bundle/chapter11/Images/4909_11_04.png
+
+newmtl Brass
+Ns 35.294118
+Ka 0.000000 0.000000 0.000000
+Kd 0.385185 0.329896 0.074184
+Ks 1.000000 1.000000 0.800000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/neox/Develop/Current/BlenderStudy/4909OS_code_bundle/chapter11/Images/4909_11_41.png
+
+newmtl Brass.001
+Ns 35.294118
+Ka 0.000000 0.000000 0.000000
+Kd 0.385185 0.329896 0.074184
+Ks 1.000000 1.000000 0.800000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Brass.003
+Ns 35.294118
+Ka 0.000000 0.000000 0.000000
+Kd 0.385185 0.329896 0.074184
+Ks 1.000000 1.000000 0.800000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Deck_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/neox/Develop/Current/BlenderStudy/4909OS_code_bundle/chapter11/Images/4909_11_03.png
+
+newmtl Deck_Material.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/neox/Develop/Current/BlenderStudy/4909OS_code_bundle/chapter11/Images/4909_11_03.png
+
+newmtl Deck_Material.003
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/neox/Develop/Current/BlenderStudy/4909OS_code_bundle/chapter11/Images/4909_11_03.png
+
+newmtl Foundation
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump /Users/neox/Develop/Current/BlenderStudy/4909OS_code_bundle/chapter11/Images/4909_11_02.png
+map_Kd /Users/neox/Develop/Current/BlenderStudy/4909OS_code_bundle/chapter11/Images/4909_11_02.png
+
+newmtl GGlass
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.134927 0.260134 0.129103
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.200000
+illum 2
+
+newmtl GGlass.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.134927 0.260134 0.129103
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.200000
+illum 2
+
+newmtl GGlass.003
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.134927 0.260134 0.129103
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.200000
+illum 2
+
+newmtl Gold
+Ns 29.411765
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.600000 0.120000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+refl /Users/neox/Develop/Current/BlenderStudy/4909OS_code_bundle/chapter11/Images/4909_11_41.png
+
+newmtl Grip_Material
+Ns 37.254902
+Ka 0.000000 0.000000 0.000000
+Kd 0.007214 0.007214 0.007214
+Ks 0.052630 0.052630 0.052630
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Gunwale
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.680000 0.800000 0.400000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Hull_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.273536 0.273536 0.717037
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Island_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.007500 0.006000 0.003000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/neox/Develop/Current/BlenderStudy/4909OS_code_bundle/chapter11/Images/4909_11_01.png
+
+newmtl Leaf_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.640000 0.065273
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Leaf_material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.147568 0.009005
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl Ocean_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.012000 0.028000
+Ks 0.092500 0.250000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Rock_Material
+Ns 33.333333
+Ka 0.000000 0.000000 0.000000
+Kd 0.236736 0.236736 0.236736
+Ks 0.085366 0.085366 0.085366
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump /Users/neox/Develop/Current/BlenderStudy/4909OS_code_bundle/chapter11/Images/4909_11_06.png
+
+newmtl Roof
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/neox/Develop/Current/BlenderStudy/4909OS_code_bundle/chapter11/Images/4909_11_02.png
+
+newmtl Roof_shingle_roof_2.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /Users/neox/Develop/Current/BlenderStudy/4909OS_code_bundle/chapter11/Images/4909_11_02.png
+
+newmtl Sail
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.043633 0.244757 0.420741
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Shaft_Material
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.401960 0.401960 0.401960
+Ks 0.113550 0.251381 0.368421
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Sky_Material
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Stucco
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump /Users/neox/Develop/Current/BlenderStudy/4909OS_code_bundle/chapter11/Images/4909_11_06.png
+
+newmtl Stucco.003
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump /Users/neox/Develop/Current/BlenderStudy/4909OS_code_bundle/chapter11/Images/4909_11_06.png
+
+newmtl Tree_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.060000 0.002800 0.007200
+Ks 0.030000 0.030000 0.030000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Tree_Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.009773 0.006256 0.000652
+Ks 0.002250 0.000105 0.000270
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl White_Paint
+Ns 1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl White_Paint.002
+Ns 1.960784
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
